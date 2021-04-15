@@ -1,0 +1,21 @@
+article .post-header {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-radius:  5px;
+}
+
+article .post-header{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+article .post-header .usuario{
+    display:  flex;;
+}
+
+article .post-header .usuario{
+    width: 50px;
+    margin-right: 15px;
+}
